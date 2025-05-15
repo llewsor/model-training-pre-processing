@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+annotations/
+dataset/
+dataset_/
+dataset_break_aug/
+dataset_original/
+dataset_whole_aug/
+screenshots/
+whole/
